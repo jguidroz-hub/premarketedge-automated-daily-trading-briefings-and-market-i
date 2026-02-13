@@ -32,7 +32,7 @@ export default function DashboardPage() {
             <h3 className="font-medium">Daily Market Intelligence</h3>
             <p className="text-sm text-gray-500">Automated pre-market trading insights</p>
           </a>
-          <a href="/dashboard/watchlist" className="block p-4 border rounded-lg hover:bg-blue-50 transition">
+          <a href="/dashboard/watchlistStocks" className="block p-4 border rounded-lg hover:bg-blue-50 transition">
             <h3 className="font-medium">Stock Watchlist</h3>
             <p className="text-sm text-gray-500">Track and monitor key stocks</p>
           </a>
